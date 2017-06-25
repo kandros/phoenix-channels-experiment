@@ -1,5 +1,7 @@
 # Chanchan
 
+> experiments with websocket phoenix channels
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
